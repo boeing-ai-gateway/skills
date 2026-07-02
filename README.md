@@ -1,4 +1,4 @@
-This is a collection of skills curated by Obot AI.
+This is a collection of skills curated by Boeing AI.
 
 Sources:
 - github.com/anthropics/skills: algorithmic-art, canvas-design, frontend-design, internal-comms

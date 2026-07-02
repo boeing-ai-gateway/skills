@@ -1,4 +1,4 @@
-<!-- Modified by Obot AI. -->
+<!-- Modified by Boeing AI. -->
 # PptxGenJS Helpers
 
 ## When To Read This

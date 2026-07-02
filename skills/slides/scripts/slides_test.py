@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # Copyright (c) OpenAI. All rights reserved.
-# Modified by Obot AI.
+# Modified by Boeing AI.
 import argparse
 import sys
 import tempfile

@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Copyright (c) OpenAI. All rights reserved.
-Modified by Obot AI.
+Modified by Boeing AI.
 
 Ensures input images are rasterized, converting to PNG when needed. Primarily used to
 preview image assets extracted from PowerPoint files.

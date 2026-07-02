@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Copyright (c) OpenAI. All rights reserved.
-Modified by Obot AI.
+Modified by Boeing AI.
 
 Detect missing fonts for PPTX rendering by converting to ODP and inspecting the resolved font
 families per slide.
